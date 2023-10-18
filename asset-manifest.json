@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0881d86d.css",
-    "main.js": "/static/js/main.5ae12fcf.js",
+    "main.css": "/static/css/main.7812697d.css",
+    "main.js": "/static/js/main.94a7aacf.js",
     "static/media/bg-mobile-new.png": "/static/media/bg-mobile-new.8ef69a86aa9f0c12a1aa.png",
     "static/media/bg_dark.png": "/static/media/bg_dark.f921cfc091440b863954.png",
     "static/media/promotionPopup.svg": "/static/media/promotionPopup.91a263b9f5ab2ae952338bf1cbc24b83.svg",
@@ -27,6 +27,7 @@
     "static/media/xIcon.svg": "/static/media/xIcon.7e7cbb905e15d59046eb6af1ba6d7df9.svg",
     "static/media/close.svg": "/static/media/close.c0731513dd900d4a88cee4e0f203c4d1.svg",
     "static/media/copy.svg": "/static/media/copy.3258657cf2fcb395ee761e0da21ed33a.svg",
+    "static/media/LegacyV1.svg": "/static/media/LegacyV1.1fd2e6cd3f3865984a07e152a4eb739d.svg",
     "static/media/twitter.svg": "/static/media/twitter.921352cade9295bc966c0ff43a4ec1df.svg",
     "static/media/backIcon.svg": "/static/media/backIcon.ab4fb0b50c9e3761ba6597dde5aad467.svg",
     "static/media/swap.svg": "/static/media/swap.333d152e769d68e7fc2b3c2e60e9cde4.svg",
@@ -37,7 +38,7 @@
     "static/media/circle.svg": "/static/media/circle.3fb766c5a28e0025d851796fc3fafe03.svg"
   },
   "entrypoints": [
-    "static/css/main.0881d86d.css",
-    "static/js/main.5ae12fcf.js"
+    "static/css/main.7812697d.css",
+    "static/js/main.94a7aacf.js"
   ]
 }
