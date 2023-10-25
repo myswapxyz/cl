@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0aee800b.css",
-    "main.js": "/static/js/main.945be6cb.js",
+    "main.css": "/static/css/main.1fb61ca3.css",
+    "main.js": "/static/js/main.1f233204.js",
     "static/media/bg-mobile-new.png": "/static/media/bg-mobile-new.8ef69a86aa9f0c12a1aa.png",
     "static/media/bg_dark.png": "/static/media/bg_dark.f921cfc091440b863954.png",
     "static/media/promotionPopup.svg": "/static/media/promotionPopup.91a263b9f5ab2ae952338bf1cbc24b83.svg",
@@ -14,7 +14,6 @@
     "static/media/BraavosLogo.svg": "/static/media/BraavosLogo.df1c225bddd7ec5d8fb0f8faacb4ced1.svg",
     "index.html": "/index.html",
     "static/media/accept.svg": "/static/media/accept.0a59c961f13e3d11dc07ef10dac90313.svg",
-    "static/media/mySwap_logo_mobile.svg": "/static/media/mySwap_logo_mobile.a04d74e6c1f7c04d48375d540f532342.svg",
     "static/media/pending.svg": "/static/media/pending.6c8918f4457c702585bb466a1e8d76b2.svg",
     "static/media/discord.svg": "/static/media/discord.65d009484ef84d8910d6c19883734389.svg",
     "static/media/stars.svg": "/static/media/stars.ad7583746b067c774e6ab7927eb53f5c.svg",
@@ -38,7 +37,7 @@
     "static/media/circle.svg": "/static/media/circle.3fb766c5a28e0025d851796fc3fafe03.svg"
   },
   "entrypoints": [
-    "static/css/main.0aee800b.css",
-    "static/js/main.945be6cb.js"
+    "static/css/main.1fb61ca3.css",
+    "static/js/main.1f233204.js"
   ]
 }
